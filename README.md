@@ -4,9 +4,9 @@
 
 ## Description
 
-Week 9 Node.js Challenge to create a professional README generator for future projects.
+Week 9 Assignment that requires us to take already established code and add functionality to it, in this case we're creating a pretty useful README generator!
 
-## Table of Contents 
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -17,11 +17,11 @@ Week 9 Node.js Challenge to create a professional README generator for future pr
 
 ## Installation
 
-Clone the repository and run node index.js
+Clone the repository, run ```npm i```, then ```node index.js```.
 
 ## Usage
 
-To quickly create README files
+Here is a YouTube video showcasing the project: [HERE](https://www.youtube.com/watch?v=owADZaurkbI)
 
 ## Contributing
 
@@ -29,7 +29,7 @@ NA
 
 ## Tests
 
-This README is a test itself.
+NA
 
 ## License
 This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
